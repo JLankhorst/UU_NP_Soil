@@ -1,0 +1,23 @@
+variable,description,units
+spp,species,-
+trt,treatment,-
+substrate,growth substrate,-
+sample,sample ID,-
+year,growth year,-
+stem.wt,stem biomass,g
+roots.wt,root biomass,g
+leaves.wt,leaf biomass,g
+n.stem,stem nitrogen content,g g-1 (%)
+c.stem,stem carbon content,g g-1 (%)
+n.root,root nitrogen content,g g-1 (%)
+c.root,root carbon content,g g-1 (%)
+n.leaf,leaf nitrogen content,g g-1 (%)
+c.leaf,leaf carbon content,g g-1 (%)
+plant.lma,whole-plant leaf mass per area,g m-2
+focal.lma,focal leaf leaf mass per area,g m-2
+vcmax,maximum rate of Rubisco carboxylation standardized at 25 ?C leaf temperature,umol m-2 s-1
+jmax,maximum rate of RuBP regeneration standardized at 25 ?C leaf temperature,umol m-2 s-1
+d.13.C,ratio of 13C to 12C relative to VPDB,‰
+chi,isotope-derived Ci:Ca,-
+n.mg,total amount of inorganic nitrogen per pot,mg
+n.mg,total amount of inorganic phosphorus per pot,mg
