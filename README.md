@@ -1,6 +1,6 @@
 # Utrecht University soil experiment
 
-Repository for a greenhouse experiment investigating effects of soil nutrient availability and natural / sterilized soils on leaf and whole plant traits. Repository contains data. Folder contents are as follow:
+Repository for a greenhouse experiment investigating effects of soil nutrient availability and natural / sterilized soils on leaf and whole plant traits. Repository contains data, and will contain scripts and analyses upon publication. Folder contents are as follow:
 
 `data`   = contains cleaned datafiles and metadata used in the analyses
 
